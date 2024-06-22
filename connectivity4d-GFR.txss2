@@ -1,0 +1,48 @@
+{
+    "InternalPDFViewer": {
+        "Embedded": true,
+        "File": ""
+    },
+    "Session": {
+        "Bookmarks": [
+        ],
+        "CurrentFile": "connect-vertical.tex",
+        "FileVersion": 1,
+        "Files": [
+            {
+                "Col": 0,
+                "EditorGroup": 0,
+                "FileName": "connectivity4d-GFR.tex",
+                "FirstLine": 0,
+                "FoldedLines": "",
+                "Line": 0
+            },
+            {
+                "Col": 101,
+                "EditorGroup": 0,
+                "FileName": "introduction.tex",
+                "FirstLine": 0,
+                "FoldedLines": "",
+                "Line": 12
+            },
+            {
+                "Col": 0,
+                "EditorGroup": 0,
+                "FileName": "connect-longitudinal.tex",
+                "FirstLine": 0,
+                "FoldedLines": "",
+                "Line": 0
+            },
+            {
+                "Col": 0,
+                "EditorGroup": 0,
+                "FileName": "connect-vertical.tex",
+                "FirstLine": 0,
+                "FoldedLines": "",
+                "Line": 0
+            }
+        ],
+        "MasterFile": "connectivity4d-GFR.tex",
+        "VerticalSplit": false
+    }
+}
